@@ -1,5 +1,5 @@
 # Pushbullet api python
-## Task : Send SMS messages to a list of numbers in a file
+## Task : Send SMS messages to a list of numbers in a file with pushbullet and python
 ## Install dependencies
 
 ```bash
