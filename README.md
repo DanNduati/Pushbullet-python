@@ -12,6 +12,10 @@ Create a .env file and add your api key obtained above as:
 ```python
 API_KEY = "your api key"
 ```
+Add comma seperated numbers into you numbers.txt file :
+```
++254700000000,+254700000000,+254700000000
+```
 ## Demo
 Run the script and voilà
 
